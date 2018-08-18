@@ -18,5 +18,14 @@ end12= "r"
 
 #watch that comma at the end. try to remove it see what happen
 
+
+cb = end1 + end2 + end3 + end4 + end5 + end6 + " " + end7 + end8 + end9 + end10 + end11 + end12
+
+ycb = f"rudi like {cb}"
+
 print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
 print(end7 + end8 + end9 + end10 + end11 + end12)
+
+print(cb)
+
+print(ycb)
